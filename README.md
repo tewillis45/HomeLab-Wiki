@@ -1,5 +1,5 @@
-# HomeLab-Wiki
-Information and Instrutions on my current HomeLab setup. Will also include any other things that relate to it.
+# Atomic Guide
+A guide on how to setup your self hosted life.
 
 # License
 HomeLab-Wiki by Tate Willis is marked with CC0 1.0 
